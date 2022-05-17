@@ -1,0 +1,8 @@
+{
+    "MavLink":
+    {
+        "ConnectionType": "tcp",
+        "ConnectionPortOrBoundRate": "5760",
+        "ConnectionHostOrSource": "127.0.0.1"
+    }
+}
